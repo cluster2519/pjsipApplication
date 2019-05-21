@@ -1,0 +1,31 @@
+﻿  base64.c
+  cli.c
+  cli_console.c
+  cli_telnet.c
+  crc32.c
+  dns.c
+  dns_dump.c
+  dns_server.c
+  errno.c
+  getopt.c
+  hmac_md5.c
+  hmac_sha1.c
+  http_client.c
+  json.c
+  md5.c
+  pcap.c
+  resolver.c
+  scanner.c
+  sha1.c
+  srv_resolver.c
+  コードを生成中...
+  コンパイル中...
+  string.c
+  stun_simple.c
+  stun_simple_client.c
+  symbols.c
+  xml.c
+  コードを生成中...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1397,5): warning MSB8012: TargetPath(D:\pjsip\pjproject-2.8\pjlib-util\build\.\output\pjlib_util--Win32-vc8-Release-Dynamic\pjlib_util.lib) が Library の OutputFile プロパティ値 (D:\pjsip\pjproject-2.8\pjlib-util\lib\pjlib-util-i386-Win32-vc8-Release-Dynamic.lib) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1399,5): warning MSB8012: TargetName(pjlib_util) が Library の OutputFile プロパティ値 (pjlib-util-i386-Win32-vc8-Release-Dynamic) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+  pjlib_util.vcxproj -> D:\pjsip\pjproject-2.8\pjlib-util\build\.\output\pjlib_util--Win32-vc8-Release-Dynamic\pjlib_util.lib

@@ -1,0 +1,15 @@
+﻿  errno.c
+  evsub.c
+  evsub_msg.c
+  iscomposing.c
+  mwi.c
+  pidf.c
+  presence.c
+  presence_body.c
+  publishc.c
+  rpid.c
+  xpidf.c
+  コードを生成中...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1397,5): warning MSB8012: TargetPath(D:\pjsip\pjproject-2.8\pjsip\build\.\output\pjsip_simple--Win32-vc8-Release-Dynamic\pjsip_simple.lib) が Library の OutputFile プロパティ値 (D:\pjsip\pjproject-2.8\pjsip\lib\pjsip-simple-i386-Win32-vc8-Release-Dynamic.lib) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1399,5): warning MSB8012: TargetName(pjsip_simple) が Library の OutputFile プロパティ値 (pjsip-simple-i386-Win32-vc8-Release-Dynamic) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+  pjsip_simple.vcxproj -> D:\pjsip\pjproject-2.8\pjsip\build\.\output\pjsip_simple--Win32-vc8-Release-Dynamic\pjsip_simple.lib

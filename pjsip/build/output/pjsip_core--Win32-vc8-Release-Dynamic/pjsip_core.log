@@ -1,0 +1,35 @@
+﻿  sip_auth_aka.c
+  sip_auth_client.c
+d:\pjsip\pjproject-2.8\pjsip\src\pjsip\sip_auth_client.c(550): warning C4102: 'TODO___FULL_CLONE_OF_AUTH_CLIENT_SESSION': ラベルは 1 度も参照されません。
+  sip_auth_msg.c
+  sip_auth_parser.c
+  sip_auth_server.c
+  sip_config.c
+  sip_dialog.c
+d:\pjsip\pjproject-2.8\pjsip\src\pjsip\sip_dialog.c(545): warning C4102: 'TODO___DIALOG_APP_TIMER': ラベルは 1 度も参照されません。
+  sip_endpoint.c
+  sip_errno.c
+  sip_msg.c
+  sip_multipart.c
+  sip_parser.c
+  sip_resolve.c
+d:\pjsip\pjproject-2.8\pjsip\src\pjsip\sip_resolve.c(403): warning C4102: 'TODO___SUPPORT_DNS_NAPTR': ラベルは 1 度も参照されません。
+  sip_tel_uri.c
+  sip_transaction.c
+  sip_transport.c
+  sip_transport_loop.c
+  sip_transport_tcp.c
+  sip_transport_tls.c
+  sip_transport_udp.c
+  コードを生成中...
+  コンパイル中...
+  sip_ua_layer.c
+  sip_uri.c
+  sip_util.c
+d:\pjsip\pjproject-2.8\pjsip\src\pjsip\sip_util.c(868): warning C4102: 'TODO___SUPPORT_REQUEST_ADDR_RESOLUTION_FOR_TEL_URI': ラベルは 1 度も参照されません。
+  sip_util_proxy.c
+  sip_util_statefull.c
+  コードを生成中...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1397,5): warning MSB8012: TargetPath(D:\pjsip\pjproject-2.8\pjsip\build\.\output\pjsip_core--Win32-vc8-Release-Dynamic\pjsip_core.lib) が Library の OutputFile プロパティ値 (D:\pjsip\pjproject-2.8\pjsip\lib\pjsip-core-i386-Win32-vc8-Release-Dynamic.lib) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1399,5): warning MSB8012: TargetName(pjsip_core) が Library の OutputFile プロパティ値 (pjsip-core-i386-Win32-vc8-Release-Dynamic) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+  pjsip_core.vcxproj -> D:\pjsip\pjproject-2.8\pjsip\build\.\output\pjsip_core--Win32-vc8-Release-Dynamic\pjsip_core.lib

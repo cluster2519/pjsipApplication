@@ -1,0 +1,39 @@
+﻿  activesock.c
+  atomic.c
+  echo_clt.c
+  errno.c
+  exception.c
+  fifobuf.c
+  file.c
+  hash_test.c
+  ioq_perf.c
+  ioq_tcp.c
+  ioq_udp.c
+  ioq_unreg.c
+  list.c
+  main.c
+  mutex.c
+  os.c
+  pool.c
+  pool_perf.c
+  rand.c
+  rbtree.c
+  コードを生成中...
+  コンパイル中...
+  select.c
+  sleep.c
+  sock.c
+  sock_perf.c
+  ssl_sock.c
+  string.c
+  test.c
+  thread.c
+  timer.c
+  timestamp.c
+  udp_echo_srv_ioqueue.c
+  udp_echo_srv_sync.c
+  util.c
+  コードを生成中...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(D:\pjsip\pjproject-2.8\pjlib\build\.\output\pjlib_test--Win32-vc8-Release-Dynamic\pjlib_test.exe) が Linker の OutputFile プロパティ値 (D:\pjsip\pjproject-2.8\pjlib\bin\pjlib-test-i386-Win32-vc8-Release-Dynamic.exe) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Link.OutputFile) で指定されている値と一致することを確認してください。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1218,5): warning MSB8012: TargetName(pjlib_test) が Linker の OutputFile プロパティ値 (pjlib-test-i386-Win32-vc8-Release-Dynamic) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Link.OutputFile) で指定されている値と一致することを確認してください。
+  pjlib_test.vcxproj -> D:\pjsip\pjproject-2.8\pjlib\build\.\output\pjlib_test--Win32-vc8-Release-Dynamic\pjlib_test.exe

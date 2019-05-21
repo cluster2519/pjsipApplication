@@ -1,0 +1,15 @@
+﻿  pjsua_acc.c
+  pjsua_aud.c
+  pjsua_call.c
+d:\pjsip\pjproject-2.8\pjsip\src\pjsua-lib\pjsua_call.c(4071): warning C4102: 'TODO___HANDLE_FORKED_DIALOG': ラベルは 1 度も参照されません。
+  pjsua_core.c
+d:\pjsip\pjproject-2.8\pjsip\src\pjsua-lib\pjsua_core.c(2826): warning C4102: 'TODO___pjsua_transport_set_enable': ラベルは 1 度も参照されません。
+  pjsua_dump.c
+  pjsua_im.c
+  pjsua_media.c
+  pjsua_pres.c
+  pjsua_vid.c
+  コードを生成中...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1397,5): warning MSB8012: TargetPath(D:\pjsip\pjproject-2.8\pjsip\build\.\output\pjsua_lib--Win32-vc8-Release-Dynamic\pjsua_lib.lib) が Library の OutputFile プロパティ値 (D:\pjsip\pjproject-2.8\pjsip\lib\pjsua-lib-i386-Win32-vc8-Release-Dynamic.lib) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1399,5): warning MSB8012: TargetName(pjsua_lib) が Library の OutputFile プロパティ値 (pjsua-lib-i386-Win32-vc8-Release-Dynamic) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+  pjsua_lib.vcxproj -> D:\pjsip\pjproject-2.8\pjsip\build\.\output\pjsua_lib--Win32-vc8-Release-Dynamic\pjsua_lib.lib

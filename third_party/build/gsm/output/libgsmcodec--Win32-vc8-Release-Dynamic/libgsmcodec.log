@@ -1,0 +1,22 @@
+﻿  add.c
+  code.c
+  debug.c
+  decode.c
+  gsm_create.c
+  gsm_decode.c
+  gsm_destroy.c
+  gsm_encode.c
+  gsm_explode.c
+  gsm_implode.c
+  gsm_option.c
+  gsm_print.c
+  long_term.c
+  lpc.c
+  preprocess.c
+  rpe.c
+  short_term.c
+  table.c
+  コードを生成中...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1397,5): warning MSB8012: TargetPath(D:\pjsip\pjproject-2.8\third_party\build\gsm\.\output\libgsmcodec--Win32-vc8-Release-Dynamic\libgsmcodec.lib) が Library の OutputFile プロパティ値 (D:\pjsip\pjproject-2.8\third_party\lib\libgsmcodec-i386-Win32-vc8-Release-Dynamic.lib) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1399,5): warning MSB8012: TargetName(libgsmcodec) が Library の OutputFile プロパティ値 (libgsmcodec-i386-Win32-vc8-Release-Dynamic) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+  libgsmcodec.vcxproj -> D:\pjsip\pjproject-2.8\third_party\build\gsm\.\output\libgsmcodec--Win32-vc8-Release-Dynamic\libgsmcodec.lib

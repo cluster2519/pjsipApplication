@@ -1,0 +1,12 @@
+﻿  encryption.c
+  http_client.c
+  json_test.c
+  main.c
+  resolver_test.c
+  stun.c
+  test.c
+  xml.c
+  コードを生成中...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(D:\pjsip\pjproject-2.8\pjlib-util\build\.\output\pjlib_util_test--Win32-vc8-Release-Dynamic\pjlib_util_test.exe) が Linker の OutputFile プロパティ値 (D:\pjsip\pjproject-2.8\pjlib-util\bin\pjlib-util-test-i386-Win32-vc8-Release-Dynamic.exe) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Link.OutputFile) で指定されている値と一致することを確認してください。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1218,5): warning MSB8012: TargetName(pjlib_util_test) が Linker の OutputFile プロパティ値 (pjlib-util-test-i386-Win32-vc8-Release-Dynamic) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Link.OutputFile) で指定されている値と一致することを確認してください。
+  pjlib_util_test.vcxproj -> D:\pjsip\pjproject-2.8\pjlib-util\build\.\output\pjlib_util_test--Win32-vc8-Release-Dynamic\pjlib_util_test.exe

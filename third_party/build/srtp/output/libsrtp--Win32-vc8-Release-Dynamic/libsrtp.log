@@ -1,0 +1,22 @@
+﻿  aes.c
+  aes_icm.c
+  cipher.c
+  null_cipher.c
+  auth.c
+  hmac.c
+  null_auth.c
+  sha1.c
+  alloc.c
+  crypto_kernel.c
+  key.c
+  datatypes.c
+  stat.c
+  rdb.c
+  rdbx.c
+  srtp_err.c
+  ekt.c
+  srtp.c
+  コードを生成中...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1397,5): warning MSB8012: TargetPath(D:\pjsip\pjproject-2.8\third_party\build\srtp\.\output\libsrtp--Win32-vc8-Release-Dynamic\libsrtp.lib) が Library の OutputFile プロパティ値 (D:\pjsip\pjproject-2.8\third_party\lib\libsrtp-i386-Win32-vc8-Release-Dynamic.lib) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1399,5): warning MSB8012: TargetName(libsrtp) が Library の OutputFile プロパティ値 (libsrtp-i386-Win32-vc8-Release-Dynamic) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+  libsrtp.vcxproj -> D:\pjsip\pjproject-2.8\third_party\build\srtp\.\output\libsrtp--Win32-vc8-Release-Dynamic\libsrtp.lib

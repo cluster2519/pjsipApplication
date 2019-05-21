@@ -1,0 +1,16 @@
+﻿  errno.c
+  ice_session.c
+  ice_strans.c
+  nat_detect.c
+  stun_auth.c
+  stun_msg.c
+  stun_msg_dump.c
+  stun_session.c
+  stun_sock.c
+  stun_transaction.c
+  turn_session.c
+  turn_sock.c
+  コードを生成中...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1397,5): warning MSB8012: TargetPath(D:\pjsip\pjproject-2.8\pjnath\build\.\output\pjnath--Win32-vc8-Release-Dynamic\pjnath.lib) が Library の OutputFile プロパティ値 (D:\pjsip\pjproject-2.8\pjnath\lib\pjnath-i386-Win32-vc8-Release-Dynamic.lib) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1399,5): warning MSB8012: TargetName(pjnath) が Library の OutputFile プロパティ値 (pjnath-i386-Win32-vc8-Release-Dynamic) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+  pjnath.vcxproj -> D:\pjsip\pjproject-2.8\pjnath\build\.\output\pjnath--Win32-vc8-Release-Dynamic\pjnath.lib

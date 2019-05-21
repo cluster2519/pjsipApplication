@@ -1,0 +1,24 @@
+﻿  amr_sdp_match.c
+  audio_codecs.c
+  ffmpeg_vid_codecs.c
+  g722.c
+  g7221.c
+  g7221_sdp_match.c
+  g722_dec.c
+  g722_enc.c
+  gsm.c
+  h263_packetizer.c
+  h264_packetizer.c
+  ilbc.c
+  ipp_codecs.c
+  l16.c
+  opencore_amr.c
+  opus.c
+  passthrough.c
+  silk.c
+  speex_codec.c
+  コードを生成中...
+  openh264.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1397,5): warning MSB8012: TargetPath(D:\pjsip\pjproject-2.8\pjmedia\build\.\output\pjmedia_codec--Win32-vc8-Release-Dynamic\pjmedia_codec.lib) が Library の OutputFile プロパティ値 (D:\pjsip\pjproject-2.8\pjmedia\lib\pjmedia-codec-i386-Win32-vc8-Release-Dynamic.lib) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1399,5): warning MSB8012: TargetName(pjmedia_codec) が Library の OutputFile プロパティ値 (pjmedia-codec-i386-Win32-vc8-Release-Dynamic) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+  pjmedia_codec.vcxproj -> D:\pjsip\pjproject-2.8\pjmedia\build\.\output\pjmedia_codec--Win32-vc8-Release-Dynamic\pjmedia_codec.lib

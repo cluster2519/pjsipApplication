@@ -1,0 +1,12 @@
+﻿  main.c
+d:\pjsip\pjproject-2.8\pjsip-apps\src\pjsua\pjsua_app.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  pjsua_app.c
+d:\pjsip\pjproject-2.8\pjsip-apps\src\pjsua\pjsua_app.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  pjsua_app_cli.c
+  pjsua_app_common.c
+  pjsua_app_config.c
+  pjsua_app_legacy.c
+  コードを生成中...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(D:\pjsip\pjproject-2.8\pjsip-apps\build\.\output\pjsua--Win32-vc8-Release-Dynamic\pjsua.exe) が Linker の OutputFile プロパティ値 (D:\pjsip\pjproject-2.8\pjsip-apps\bin\pjsua-i386-Win32-vc8-Release-Dynamic.exe) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Link.OutputFile) で指定されている値と一致することを確認してください。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1218,5): warning MSB8012: TargetName(pjsua) が Linker の OutputFile プロパティ値 (pjsua-i386-Win32-vc8-Release-Dynamic) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Link.OutputFile) で指定されている値と一致することを確認してください。
+  pjsua.vcxproj -> D:\pjsip\pjproject-2.8\pjsip-apps\build\.\output\pjsua--Win32-vc8-Release-Dynamic\pjsua.exe

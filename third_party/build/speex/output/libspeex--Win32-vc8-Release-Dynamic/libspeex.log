@@ -1,0 +1,44 @@
+﻿  bits.c
+  cb_search.c
+  exc_10_16_table.c
+  exc_10_32_table.c
+  exc_20_32_table.c
+  exc_5_256_table.c
+  exc_5_64_table.c
+  exc_8_128_table.c
+  fftwrap.c
+  filterbank.c
+  filters.c
+  gain_table.c
+  gain_table_lbr.c
+  hexc_10_32_table.c
+  hexc_table.c
+  high_lsp_tables.c
+  kiss_fft.c
+  kiss_fftr.c
+  lpc.c
+  lsp.c
+  コードを生成中...
+  コンパイル中...
+  lsp_tables_nb.c
+  ltp.c
+  mdf.c
+  modes.c
+  modes_wb.c
+  nb_celp.c
+  preprocess.c
+  quant_lsp.c
+  resample.c
+  sb_celp.c
+  smallft.c
+  speex.c
+  speex_callbacks.c
+  speex_header.c
+  stereo.c
+  vbr.c
+  vq.c
+  window.c
+  コードを生成中...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1397,5): warning MSB8012: TargetPath(D:\pjsip\pjproject-2.8\third_party\build\speex\.\output\libspeex--Win32-vc8-Release-Dynamic\libspeex.lib) が Library の OutputFile プロパティ値 (D:\pjsip\pjproject-2.8\third_party\lib\libspeex-i386-Win32-vc8-Release-Dynamic.lib) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1399,5): warning MSB8012: TargetName(libspeex) が Library の OutputFile プロパティ値 (libspeex-i386-Win32-vc8-Release-Dynamic) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+  libspeex.vcxproj -> D:\pjsip\pjproject-2.8\third_party\build\speex\.\output\libspeex--Win32-vc8-Release-Dynamic\libspeex.lib

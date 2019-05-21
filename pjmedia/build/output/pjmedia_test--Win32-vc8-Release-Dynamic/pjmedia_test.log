@@ -1,0 +1,14 @@
+﻿  codec_vectors.c
+  jbuf_test.c
+  main.c
+  mips_test.c
+  rtp_test.c
+  sdp_neg_test.c
+  test.c
+  vid_codec_test.c
+  vid_dev_test.c
+  vid_port_test.c
+  コードを生成中...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(D:\pjsip\pjproject-2.8\pjmedia\build\.\output\pjmedia_test--Win32-vc8-Release-Dynamic\pjmedia_test.exe) が Linker の OutputFile プロパティ値 (D:\pjsip\pjproject-2.8\pjmedia\bin\pjmedia-test-i386-Win32-vc8-Release-Dynamic.exe) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Link.OutputFile) で指定されている値と一致することを確認してください。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1218,5): warning MSB8012: TargetName(pjmedia_test) が Linker の OutputFile プロパティ値 (pjmedia-test-i386-Win32-vc8-Release-Dynamic) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Link.OutputFile) で指定されている値と一致することを確認してください。
+  pjmedia_test.vcxproj -> D:\pjsip\pjproject-2.8\pjmedia\build\.\output\pjmedia_test--Win32-vc8-Release-Dynamic\pjmedia_test.exe

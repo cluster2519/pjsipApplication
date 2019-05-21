@@ -1,0 +1,13 @@
+﻿  concur_test.c
+  ice_test.c
+  main.c
+  server.c
+  sess_auth.c
+  stun.c
+  stun_sock_test.c
+  test.c
+  turn_sock_test.c
+  コードを生成中...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(D:\pjsip\pjproject-2.8\pjnath\build\.\output\pjnath_test--Win32-vc8-Release-Dynamic\pjnath_test.exe) が Linker の OutputFile プロパティ値 (D:\pjsip\pjproject-2.8\pjnath\bin\pjnath-test-i386-Win32-vc8-Release-Dynamic.exe) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Link.OutputFile) で指定されている値と一致することを確認してください。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1218,5): warning MSB8012: TargetName(pjnath_test) が Linker の OutputFile プロパティ値 (pjnath-test-i386-Win32-vc8-Release-Dynamic) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Link.OutputFile) で指定されている値と一致することを確認してください。
+  pjnath_test.vcxproj -> D:\pjsip\pjproject-2.8\pjnath\build\.\output\pjnath_test--Win32-vc8-Release-Dynamic\pjnath_test.exe

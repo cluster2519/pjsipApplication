@@ -1,0 +1,12 @@
+﻿  audiodev.c
+  audiotest.c
+  bdimad_dev.c
+  errno.c
+  legacy_dev.c
+  null_dev.c
+  pa_dev.c
+  wmme_dev.c
+  コードを生成中...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1397,5): warning MSB8012: TargetPath(D:\pjsip\pjproject-2.8\pjmedia\build\.\output\pjmedia_audiodev--Win32-vc8-Release-Dynamic\pjmedia_audiodev.lib) が Library の OutputFile プロパティ値 (D:\pjsip\pjproject-2.8\pjmedia\lib\pjmedia-audiodev-i386-Win32-vc8-Release-Dynamic.lib) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1399,5): warning MSB8012: TargetName(pjmedia_audiodev) が Library の OutputFile プロパティ値 (pjmedia-audiodev-i386-Win32-vc8-Release-Dynamic) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+  pjmedia_audiodev.vcxproj -> D:\pjsip\pjproject-2.8\pjmedia\build\.\output\pjmedia_audiodev--Win32-vc8-Release-Dynamic\pjmedia_audiodev.lib

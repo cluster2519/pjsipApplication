@@ -1,0 +1,34 @@
+﻿  compare.cc
+  compare_common.cc
+  compare_win.cc
+  convert.cc
+  convert_argb.cc
+  convert_from.cc
+  convert_from_argb.cc
+  convert_jpeg.cc
+  convert_to_argb.cc
+  convert_to_i420.cc
+  cpu_id.cc
+  mjpeg_decoder.cc
+  mjpeg_validate.cc
+  planar_functions.cc
+  rotate.cc
+  rotate_any.cc
+  rotate_argb.cc
+  rotate_common.cc
+  rotate_win.cc
+  row_any.cc
+  コードを生成中...
+  コンパイル中...
+  row_common.cc
+  row_win.cc
+  scale.cc
+  scale_any.cc
+  scale_argb.cc
+  scale_common.cc
+  scale_win.cc
+  video_common.cc
+  コードを生成中...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1397,5): warning MSB8012: TargetPath(D:\pjsip\pjproject-2.8\third_party\build\yuv\.\output\libyuv--Win32-vc8-Release-Dynamic\libyuv.lib) が Library の OutputFile プロパティ値 (D:\pjsip\pjproject-2.8\third_party\lib\libyuv-i386-Win32-vc8-Release-Dynamic.lib) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1399,5): warning MSB8012: TargetName(libyuv) が Library の OutputFile プロパティ値 (libyuv-i386-Win32-vc8-Release-Dynamic) と一致しません。このため、プロジェクトが正常にビルドされない可能性があります。この問題を解決するには、$(OutDir)、$(TargetName)、および $(TargetExt) の各プロパティ値が、%(Lib.OutputFile) で指定されている値と一致することを確認してください。
+  libyuv.vcxproj -> D:\pjsip\pjproject-2.8\third_party\build\yuv\.\output\libyuv--Win32-vc8-Release-Dynamic\libyuv.lib
